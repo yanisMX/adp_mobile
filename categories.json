@@ -1,0 +1,32 @@
+[
+  {
+    "ID": 1,
+    "name": "Abonnements",
+    "budget": "100",
+    "user_id": 1
+  },
+  {
+    "ID": 2,
+    "name": "Factures",
+    "budget": "100",
+    "user_id": 1
+  },
+  {
+    "ID": 3,
+    "name": "Loisirs",
+    "budget": "100",
+    "user_id": 1
+  },
+  {
+    "ID": 4,
+    "name": "Sports",
+    "budget": "0",
+    "user_id": 1
+  },
+  {
+    "ID": 5,
+    "name": "Autres",
+    "budget": "0",
+    "user_id": 1
+  }
+]
